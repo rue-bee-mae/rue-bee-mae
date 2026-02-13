@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey!
 
 <!--
 **rue-bee-mae/rue-bee-mae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Here's my boot.dev progress :3
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/a1f08a8e-9c42-494e-9a7c-43dff1425b16/thumbnail" >
+</p>
